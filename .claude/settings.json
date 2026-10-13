@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 tools/novel.py:*)"
+    ],
+    "ask": [
+      "Edit(/bible/**)",
+      "Write(/bible/**)"
+    ]
+  }
+}
